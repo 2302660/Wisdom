@@ -1,0 +1,1501 @@
+question_id,pred
+0008-0,The last person in the video is a man
+0008-1,The last person in the video is a man
+0008-2,no
+0008-3,no
+0008-7,C.
+0012-0,three
+0012-1,six
+0012-2,yes
+0012-3,no
+0012-7,B
+0016-0,right
+0016-1,right and left
+0016-2,no
+0016-3,no
+0016-7,B
+0036-0,The zucchini is very thin.
+0036-1,The machine spins the zucchini in a circular motion.
+0036-2,yes
+0036-3,no
+0036-7,A
+0037-0,ten
+0037-1,three
+0037-2,no
+0037-3,no
+0037-7,A
+0038-0,The last person was able to snap off the cap so easily because they were wearing a hat.
+0038-1,The last person had a broken bottle cap.
+0038-2,no
+0038-3,no
+0038-7,A
+0064-0,The room was too dark.
+0064-1,a fire
+0064-2,no
+0064-3,no
+0064-7,C
+0070-0,three
+0070-1,three times
+0070-2,no
+0070-3,no
+0070-7,B
+0080-0,to create a bubble
+0080-1,To get the balloon to explode.
+0080-2,yes
+0080-3,no
+0080-7,A
+0081-0,He wants to show his love.
+0081-1,he wants to look good.
+0081-2,no
+0081-3,yes
+0081-7,B.
+0083-0,she has a crush on her
+0083-1,i love you
+0083-2,no
+0083-3,no
+0083-7,B.
+0099-0,three
+0099-1,three
+0099-2,yes
+0099-3,no
+0099-7,B
+0101-0,sahara desert
+0101-1,3rd
+0101-2,no
+0101-3,no
+0101-7,B
+0113-0,ten
+0113-1,10
+0113-2,no
+0113-3,no
+0113-7,B
+0117-0,four
+0117-1,three
+0117-2,no
+0117-3,no
+0117-7,B
+0118-0,slammed the bottle into the ground
+0118-1,screamed at the camera
+0118-2,yes
+0118-3,no
+0118-7,B.
+0127-0,four
+0127-1,0
+0127-2,no
+0127-3,no
+0127-7,B
+0129-0,two men
+0129-1,three
+0129-2,no
+0129-3,no
+0129-7,C
+0133-0,a young woman laying on a bed
+0133-1,a man in a hat
+0133-2,yes
+0133-3,no
+0133-7,A
+0142-0,make a handrail
+0142-1,to protect the handrail
+0142-2,to protect the handrail
+0142-3,no
+0142-7,C.
+0146-0,three times
+0146-1,three
+0146-2,no
+0146-3,yes
+0146-7,B
+0151-0,black and white
+0151-1,The person is holding a potato
+0151-2,no
+0151-3,no
+0151-7,C
+0152-0,a screwdriver
+0152-1,stapler
+0152-2,no
+0152-3,no
+0152-7,A
+0154-0,right hand
+0154-1,left
+0154-2,no
+0154-3,no
+0154-7,B
+0162-0,three
+0162-1,one
+0162-2,no
+0162-3,no
+0162-7,D.
+0167-0,She is pregnant.
+0167-1,she sees a man in a hat
+0167-2,no
+0167-3,no
+0167-7,B
+0169-0,three
+0169-1,three
+0169-2,no
+0169-3,no
+0169-7,A
+0179-0,once
+0179-1,once
+0179-2,no
+0179-3,no
+0179-7,A
+0198-0,10
+0198-1,10
+0198-2,no
+0198-3,no
+0198-7,D.
+0217-0,30 seconds
+0217-1,3 seconds
+0217-2,yes
+0217-3,yes
+0217-7,B
+0242-0,They were having sex.
+0242-1,a fire
+0242-2,no
+0242-3,no
+0242-7,C
+0248-0,talking to the camera
+0248-1,dancing
+0248-2,no
+0248-3,no
+0248-7,A
+0251-0,it is too big
+0251-1,a hammer hitting it
+0251-2,no
+0251-3,yes
+0251-7,A
+0256-0,ten
+0256-1,ten
+0256-2,no
+0256-3,no
+0256-7,B
+0259-0,left
+0259-1,left
+0259-2,no
+0259-3,no
+0259-7,C
+0266-0,ring finger
+0266-1,ring finger
+0266-2,no
+0266-3,no
+0266-7,D
+0267-0,talking to the camera
+0267-1,dance
+0267-2,no
+0267-3,jumping
+0267-7,A
+0273-0,blue
+0273-1,blue
+0273-2,no
+0273-3,no
+0273-7,C
+0274-0,5
+0274-1,0
+0274-2,yes
+0274-3,yes
+0274-7,A
+0276-0,yes
+0276-1,pens and pencils
+0276-2,no
+0276-3,no
+0276-7,B
+0278-0,blue
+0278-1,blue
+0278-2,no
+0278-3,no
+0278-7,B
+0288-0,hammer
+0288-1,hammer
+0288-2,yes
+0288-3,no
+0288-7,B.
+0291-0,a mechanical failure
+0291-1,a hammer
+0291-2,no
+0291-3,no
+0291-7,A.
+0292-0,four
+0292-1,0
+0292-2,no
+0292-3,yes
+0292-7,C
+0295-0,three
+0295-1,three
+0295-2,yes
+0295-3,yes
+0295-7,C
+0296-0,The pants are too small.
+0296-1,he misses the ball
+0296-2,no
+0296-3,no
+0296-7,C
+0303-0,The man stops cycling because he is tired.
+0303-1,slams the brakes
+0303-2,no
+0303-3,yes
+0303-7,D.
+0304-0,two
+0304-1,one
+0304-2,no
+0304-3,no
+0304-7,B
+0308-0,launching bombs
+0308-1,evade attack
+0308-2,no
+0308-3,no
+0308-7,B
+0313-0,three
+0313-1,ten
+0313-2,no
+0313-3,no
+0313-7,D.
+0319-0,sand castle
+0319-1,in the net
+0319-2,yes
+0319-3,yes
+0319-7,D
+0320-0,slammed
+0320-1,squat
+0320-2,no
+0320-3,no
+0320-7,B
+0321-0,a game
+0321-1,dance
+0321-2,no
+0321-3,no
+0321-7,C
+0325-0,three
+0325-1,three
+0325-2,no
+0325-3,no
+0325-7,B
+0334-0,a man in a hat and a woman in a dress
+0334-1,the video is not depicting real-life scenes
+0334-2,no
+0334-3,yes
+0334-7,D
+0340-0,three
+0340-1,5
+0340-2,yes
+0340-3,no
+0340-7,C
+0357-0,He is angry
+0357-1,like he's stealing
+0357-2,no
+0357-3,yes
+0357-7,C
+0358-0,she was too weak.
+0358-1,a broken leg
+0358-2,no
+0358-3,no
+0358-7,A
+0368-0,3
+0368-1,three
+0368-2,no
+0368-3,no
+0368-7,C
+0370-0,two
+0370-1,three
+0370-2,no
+0370-3,no
+0370-7,B
+0372-0,screams
+0372-1,screams
+0372-2,no
+0372-3,no
+0372-7,C
+0374-0,a magic stick
+0374-1,Using a hammer
+0374-2,yes
+0374-3,yes
+0374-7,A
+0377-0,eddie murphy
+0377-1,a man
+0377-2,yes
+0377-3,yes
+0377-7,D
+0410-0,the sixth cotton candy is dissolved
+0410-1,the water turns into ice.
+0410-2,no
+0410-3,no
+0410-7,D.
+0416-0,Because he didn't know how to do it.
+0416-1,he was able to perform the trick on a stage
+0416-2,no
+0416-3,no
+0416-7,A
+0417-0,The person on the left is trying hard not to laugh because the person on the right is trying hard not to laugh.
+0417-1,The person on the left is trying hard not to laugh because the person on the right is trying hard not to laugh.
+0417-2,no
+0417-3,no
+0417-7,C
+0420-0,a cat is a cat.
+0420-1,no
+0420-2,no
+0420-3,no
+0420-7,A
+0427-0,"Using a knife, cut the watermelon in half."
+0427-1,Using a knife
+0427-2,no
+0427-3,yes
+0427-7,B.
+0430-0,a faulty battery
+0430-1,a faulty battery
+0430-2,no
+0430-3,no
+0430-7,B
+0432-0,sand dunes
+0432-1,grenades
+0432-2,yes
+0432-3,yes
+0432-7,A
+0435-0,arrows
+0435-1,saber
+0435-2,no
+0435-3,no
+0435-7,A
+0439-0,cigarette lighter
+0439-1,cigarette lighter
+0439-2,no
+0439-3,yes
+0439-7,A
+0441-0,flexed
+0441-1,swollen
+0441-2,staying in the same spot
+0441-3,yes
+0441-7,A
+0452-0,slender
+0452-1,no
+0452-2,no
+0452-3,yes
+0452-7,B.
+0456-0,ten
+0456-1,ten
+0456-2,no
+0456-3,no
+0456-7,B
+0463-0,a hammer
+0463-1,teddy bear
+0463-2,no
+0463-3,no
+0463-7,D.
+0466-0,three
+0466-1,12
+0466-2,yes
+0466-3,no
+0466-7,B
+0468-0,Justin Timberlake
+0468-1,daniel taylor
+0468-2,no
+0468-3,no
+0468-7,A
+0494-0,two
+0494-1,three
+0494-2,no
+0494-3,no
+0494-7,B
+0500-0,ten
+0500-1,ten
+0500-2,no
+0500-3,yes
+0500-7,B
+0501-0,2
+0501-1,2
+0501-2,no
+0501-3,no
+0501-7,D
+0512-0,ten
+0512-1,two
+0512-2,no
+0512-3,no
+0512-7,B
+0520-0,c
+0520-1,a b c d
+0520-2,no
+0520-3,no
+0520-7,C.
+0522-0,three
+0522-1,2
+0522-2,no
+0522-3,no
+0522-7,B
+0525-0,four
+0525-1,4
+0525-2,no
+0525-3,yes
+0525-7,C
+0526-0,ten
+0526-1,ten
+0526-2,yes
+0526-3,yes
+0526-7,B
+0530-0,volley ball
+0530-1,volley ball
+0530-2,no
+0530-3,no
+0530-7,A
+0539-0,3
+0539-1,three
+0539-2,no
+0539-3,no
+0539-7,B
+0541-0,six
+0541-1,30
+0541-2,no
+0541-3,no
+0541-7,D.
+0542-0,a pig laying on a plate
+0542-1,the bread is sliced in half
+0542-2,no
+0542-3,no
+0542-7,A.
+0548-0,a man driving a car
+0548-1,a car
+0548-2,no
+0548-3,no
+0548-7,D
+0551-0,inactive
+0551-1,in the middle of the wall
+0551-2,yes
+0551-3,no
+0551-7,D.
+0552-0,ten
+0552-1,ten
+0552-2,no
+0552-3,no
+0552-7,A
+0561-0,three
+0561-1,every second
+0561-2,yes
+0561-3,no
+0561-7,D
+0566-0,This is a re-enactment of a scene from the original film.
+0566-1,to show the plant in the scene
+0566-2,no
+0566-3,no
+0566-7,B.
+0567-0,black
+0567-1,black
+0567-2,no
+0567-3,no
+0567-7,A
+0571-0,ring finger
+0571-1,fifth finger
+0571-2,no
+0571-3,yes
+0571-7,A
+0575-0,shoes
+0575-1,a hat
+0575-2,no
+0575-3,no
+0575-7,A
+0576-0,katie scott
+0576-1,a man wearing a belt
+0576-2,yes
+0576-3,yes
+0576-7,D.
+0578-0,3
+0578-1,0
+0578-2,yes
+0578-3,yes
+0578-7,D
+0580-0,0
+0580-1,0
+0580-2,yes
+0580-3,yes
+0580-7,B
+0588-0,four
+0588-1,2
+0588-2,no
+0588-3,no
+0588-7,C
+0589-0,no
+0589-1,no
+0589-2,no
+0589-3,no
+0589-7,A
+0590-0,a man in black jacket
+0590-1,a car accident
+0590-2,no
+0590-3,no
+0590-7,A
+0595-0,guitar strings
+0595-1,tees
+0595-2,no
+0595-3,no
+0595-7,D
+0597-0,a person holding a camera
+0597-1,a professional
+0597-2,no
+0597-3,no
+0597-7,B
+0600-0,ear
+0600-1,in the back of his head
+0600-2,yes
+0600-3,yes
+0600-7,C
+0603-0,heart-shaped pattern
+0603-1,heart-shaped pattern
+0603-2,no
+0603-3,no
+0603-7,D
+0607-0,talking to the camera
+0607-1,seated
+0607-2,no
+0607-3,no
+0607-7,A
+0609-0,a random number generator
+0609-1,The elimination is determined by the number of players in the game.
+0609-2,no
+0609-3,no
+0609-7,C.
+0610-0,Because she wanted to get rid of it.
+0610-1,the package was damaged.
+0610-2,no
+0610-3,yes
+0610-7,D.
+0612-0,to make it easier to paint.
+0612-1,to make it easier to read.
+0612-2,no
+0612-3,no
+0612-7,D.
+0614-0,they are eating too much food
+0614-1,he eats too much food
+0614-2,no
+0614-3,nervousness
+0614-7,A
+0616-0,blue
+0616-1,tiger
+0616-2,no
+0616-3,no
+0616-7,C
+0620-0,at the top of the stairs
+0620-1,seated
+0620-2,no
+0620-3,no
+0620-7,B
+0621-0,right foot
+0621-1,left foot
+0621-2,no
+0621-3,no
+0621-7,A
+0625-0,the opposite direction
+0625-1,left
+0625-2,yes
+0625-3,no
+0625-7,A
+0627-0,taylor swift
+0627-1,taylor swift
+0627-2,no
+0627-3,no
+0627-7,A
+0633-0,right
+0633-1,right
+0633-2,no
+0633-3,no
+0633-7,C
+0643-0,NE
+0643-1,You can see the direction of the wind from the video.
+0643-2,no
+0643-3,no
+0643-7,C
+0645-0,in the middle of the video
+0645-1,on the student character's face
+0645-2,no
+0645-3,no
+0645-7,B
+0652-0,The car slid backwards to the left.
+0652-1,in the middle of the road
+0652-2,yes
+0652-3,yes
+0652-7,A
+0655-0,the truck
+0655-1,the truck
+0655-2,no
+0655-3,yes
+0655-7,D
+0658-0,michael jackson
+0658-1,jimmy taylor
+0658-2,no
+0658-3,no
+0658-7,C
+0664-0,ten
+0664-1,ten
+0664-2,no
+0664-3,yes
+0664-7,B
+0667-0,5
+0667-1,8
+0667-2,no
+0667-3,no
+0667-7,C
+0670-0,three
+0670-1,three
+0670-2,no
+0670-3,no
+0670-7,B
+0673-0,ten
+0673-1,three
+0673-2,no
+0673-3,no
+0673-7,C
+0675-0,astonished
+0675-1,astonished
+0675-2,yes
+0675-3,yes
+0675-7,C
+0679-0,like she's a hero
+0679-1,angry
+0679-2,no
+0679-3,frustrated
+0679-7,B
+0689-0,Because he wanted to be a better person.
+0689-1,he wanted it to be a picture of himself
+0689-2,no
+0689-3,no
+0689-7,A.
+0690-0,The child is crying.
+0690-1,a baby is crying
+0690-2,no
+0690-3,relaxing
+0690-7,A
+0695-0,san diego chargers
+0695-1,michael jackson
+0695-2,no
+0695-3,no
+0695-7,C
+0706-0,to make a joke
+0706-1,achieve a goal
+0706-2,yes
+0706-3,no
+0706-7,B
+0707-0,to catch a ball
+0707-1,to see if they can catch it.
+0707-2,no
+0707-3,yes
+0707-7,C
+0708-0,The cat is scared of the camera.
+0708-1,The cat is crying.
+0708-2,no
+0708-3,no
+0708-7,B
+0721-0,hat
+0721-1,A man is playing a guitar.
+0721-2,no
+0721-3,yes
+0721-7,B
+0723-0,it's alive
+0723-1,it's moving in the air
+0723-2,yes
+0723-3,yes
+0723-7,C
+0724-0,"The pen passes through the banknote, but the note is not broken."
+0724-1,The pen folds the banknote in half and then folds it in half.
+0724-2,no
+0724-3,no
+0724-7,B
+0725-0,It is too strong.
+0725-1,a drop in temperature
+0725-2,no
+0725-3,no
+0725-7,B
+0729-0,blue
+0729-1,blue
+0729-2,no
+0729-3,no
+0729-7,A
+0731-0,swollen
+0731-1,a man in a hat
+0731-2,no
+0731-3,no
+0731-7,C
+0735-0,The artboard was designed by a local artist and sculptor.
+0735-1,overlaying it
+0735-2,no
+0735-3,yes
+0735-7,D
+0738-0,using a flashlight
+0738-1,using a flashlight
+0738-2,yes
+0738-3,no
+0738-7,B.
+0740-0,calculating the number of digits
+0740-1,dividing the number by the number of squares
+0740-2,no
+0740-3,no
+0740-7,D
+0742-0,ten
+0742-1,The value of x in the given diagram is x = x. The value of x in the given diagram is x = x.
+0742-2,no
+0742-3,no
+0742-7,C
+0743-0,How many squares are in a square?
+0743-1,0
+0743-2,no
+0743-3,no
+0743-7,C
+0749-0,ice and water
+0749-1,glass and copper
+0749-2,no
+0749-3,no
+0749-7,A
+0755-0,sand
+0755-1,ionic
+0755-2,no
+0755-3,no
+0755-7,C
+0757-0,calf
+0757-1,calf
+0757-2,no
+0757-3,no
+0757-7,A
+0762-0,steel
+0762-1,wood
+0762-2,no
+0762-3,no
+0762-7,D
+0763-0,canned coke that was taken away
+0763-1,one removed
+0763-2,no
+0763-3,no
+0763-7,C.
+0766-0,left shoulder
+0766-1,thigh
+0766-2,no
+0766-3,no
+0766-7,C
+0777-0,three
+0777-1,12
+0777-2,yes
+0777-3,yes
+0777-7,B
+0779-0,a blond woman in a hat
+0779-1,using a camera
+0779-2,no
+0779-3,no
+0779-7,A.
+0790-0,"To adjust the transparent sheet to see the blue tube, place the sheet on top of the blue tube."
+0790-1,obliquely
+0790-2,no
+0790-3,no
+0790-7,A.
+0794-0,Justin Timberlake
+0794-1,joey
+0794-2,no
+0794-3,no
+0794-7,B
+0803-0,a fire
+0803-1,cigarette lighter
+0803-2,yes
+0803-3,no
+0803-7,D
+0806-0,four
+0806-1,12
+0806-2,no
+0806-3,no
+0806-7,B
+0810-0,three times
+0810-1,three times
+0810-2,no
+0810-3,no
+0810-7,B
+0812-0,three
+0812-1,one
+0812-2,yes
+0812-3,yes
+0812-7,B
+0816-0,experimented with a syringe
+0816-1,shook hands with a friend
+0816-2,no
+0816-3,yes
+0816-7,A
+0818-0,earring
+0818-1,earring
+0818-2,no
+0818-3,yes
+0818-7,D
+0827-0,four
+0827-1,three
+0827-2,no
+0827-3,yes
+0827-7,B
+0833-0,a giraffe
+0833-1,a giraffe
+0833-2,no
+0833-3,yes
+0833-7,C
+0835-0,spleen
+0835-1,sphincter
+0835-2,yes
+0835-3,no
+0835-7,C
+0841-0,left eye
+0841-1,left eye
+0841-2,no
+0841-3,no
+0841-7,A
+0848-0,kitty cat
+0848-1,kitty cat
+0848-2,no
+0848-3,no
+0848-7,D.
+0854-0,he wants to make sure everyone is safe.
+0854-1,he wants to make sure they are safe
+0854-2,no
+0854-3,yes
+0854-7,C
+0857-0,The woman in the video is imitating a woman in a sex scene.
+0857-1,a tiger
+0857-2,yes
+0857-3,no
+0857-7,A
+0858-0,armrest
+0858-1,armrest
+0858-2,no
+0858-3,no
+0858-7,A
+0865-0,three
+0865-1,three
+0865-2,no
+0865-3,no
+0865-7,A
+0868-0,blue
+0868-1,blue
+0868-2,no
+0868-3,no
+0868-7,A
+0870-0,he wanted to take a picture
+0870-1,he wanted to be a photographer
+0870-2,yes
+0870-3,no
+0870-7,B.
+0871-0,the middle of the road
+0871-1,taylor swift
+0871-2,no
+0871-3,no
+0871-7,C
+0872-0,vertically
+0872-1,left
+0872-2,yes
+0872-3,yes
+0872-7,C
+0875-0,two
+0875-1,two
+0875-2,no
+0875-3,no
+0875-7,B
+0879-0,a plane
+0879-1,asymmetrical
+0879-2,no
+0879-3,no
+0879-7,B
+0880-0,The direction of the structure changes as the person holds up
+0880-1,the direction of the structure changes
+0880-2,no
+0880-3,no
+0880-7,C.
+0886-0,on his wrist
+0886-1,ring
+0886-2,no
+0886-3,no
+0886-7,A
+0895-0,a basketball game
+0895-1,a man throws a basketball into the air
+0895-2,no
+0895-3,no
+0895-7,A.
+0898-0,right
+0898-1,left to right
+0898-2,no
+0898-3,no
+0898-7,B
+0901-0,two
+0901-1,two
+0901-2,no
+0901-3,no
+0901-7,A
+0905-0,downhill
+0905-1,incline
+0905-2,no
+0905-3,yes
+0905-7,D
+0907-0,a tree
+0907-1,a cliff
+0907-2,no
+0907-3,no
+0907-7,C
+0910-0,Because he is a father.
+0910-1,the child is crying.
+0910-2,no
+0910-3,no
+0910-7,B.
+0914-0,The beer bottle is placed under the faucet in the video.
+0914-1,to make a drink
+0914-2,no
+0914-3,no
+0914-7,C.
+0918-0,right hand
+0918-1,right hand
+0918-2,no
+0918-3,no
+0918-7,A
+0919-0,using a sledgehammer
+0919-1,Using a paintbrush
+0919-2,no
+0919-3,yes
+0919-7,D
+0924-0,earring
+0924-1,earring
+0924-2,no
+0924-3,no
+0924-7,D
+0926-0,right hand
+0926-1,right hand
+0926-2,no
+0926-3,no
+0926-7,D
+0927-0,right arm
+0927-1,the right arm
+0927-2,no
+0927-3,no
+0927-7,A
+0929-0,the girl in the green dress in the video is wearing a blue dress
+0929-1,the little girl in the green dress and the little girl in the blue dress behave similarly
+0929-2,no
+0929-3,yes
+0929-7,A
+0933-0,he wanted to light a fire.
+0933-1,he had a cigarette in his mouth
+0933-2,yes
+0933-3,no
+0933-7,B.
+0939-0,three
+0939-1,three
+0939-2,no
+0939-3,yes
+0939-7,A
+0942-0,to eat the egg
+0942-1,to break the egg
+0942-2,no
+0942-3,no
+0942-7,C
+0946-0,thigh
+0946-1,right foot
+0946-2,yes
+0946-3,yes
+0946-7,C
+0949-0,in the back of a car
+0949-1,saturday night and saturday morning
+0949-2,no
+0949-3,no
+0949-7,C
+0950-0,bouncing
+0950-1,it bounces off the wall
+0950-2,no
+0950-3,no
+0950-7,B
+0952-0,black
+0952-1,blue
+0952-2,no
+0952-3,no
+0952-7,B
+0956-0,right
+0956-1,left
+0956-2,yes
+0956-3,yes
+0956-7,A
+0957-0,The beaker was smashed by a hammer.
+0957-1,a chemical reaction
+0957-2,yes
+0957-3,no
+0957-7,A.
+0973-0,during a fight
+0973-1,at the end of the video
+0973-2,no
+0973-3,no
+0973-7,D
+0974-0,at the end of the video
+0974-1,at the end of the video
+0974-2,no
+0974-3,no
+0974-7,C
+0976-0,a young woman
+0976-1,sarah taylor
+0976-2,no
+0976-3,no
+0976-7,C
+0983-0,a second person is seen in the video
+0983-1,a light bulb
+0983-2,no
+0983-3,no
+0983-7,B.
+0985-0,no
+0985-1,no
+0985-2,no
+0985-3,no
+0985-7,B
+0995-0,how many people are in the video?
+0995-1,The video ends with a montage of clips from the video.
+0995-2,no
+0995-3,no
+0995-7,B
+0996-0,timer tool
+0996-1,compass
+0996-2,no
+0996-3,no
+0996-7,B
+0999-0,slithering through them
+0999-1,he is killed
+0999-2,no
+0999-3,no
+0999-7,C
+1002-0,slams it into the wall
+1002-1,using a hammer
+1002-2,yes
+1002-3,no
+1002-7,A
+1009-0,angry
+1009-1,he screams at the visitor
+1009-2,no
+1009-3,yes
+1009-7,A
+1011-0,She wanted to get rid of him.
+1011-1,a hose malfunctioned
+1011-2,no
+1011-3,yes
+1011-7,C
+1018-0,stoked
+1018-1,He shook his head.
+1018-2,no
+1018-3,no
+1018-7,C
+1020-0,excited
+1020-1,they scream
+1020-2,no
+1020-3,yes
+1020-7,B
+1023-0,irritated
+1023-1,He walked away.
+1023-2,frustration
+1023-3,no
+1023-7,A
+1031-0,anger
+1031-1,satiated
+1031-2,no
+1031-3,no
+1031-7,B
+1037-0,Because he's a good man.
+1037-1,he is a good man
+1037-2,no
+1037-3,yes
+1037-7,A.
+1044-0,resentment
+1044-1,withdrawn
+1044-2,no
+1044-3,yes
+1044-7,D
+1045-0,the person is wearing a tie-dye hoodie
+1045-1,the person on the left is in love with the individual
+1045-2,no
+1045-3,no
+1045-7,B.
+1046-0,he threw the person in the gray T-shirt into the swimming pool
+1046-1,the person in the black hat threw the individual into the pool
+1046-2,no
+1046-3,no
+1046-7,A
+1049-0,annoyance
+1049-1,to get the dog to stop barking
+1049-2,no
+1049-3,annoyance
+1049-7,C
+1051-0,anger
+1051-1,sarcasm
+1051-2,no
+1051-3,sentimentality
+1051-7,D
+1053-0,humour
+1053-1,a message to the world
+1053-2,no
+1053-3,greet
+1053-7,B.
+1055-0,enlightenment
+1055-1,This video is a great example of how to make a video that is informative and entertaining.
+1055-2,yes
+1055-3,no
+1055-7,A.
+1064-0,he is the only one in the video.
+1064-1,he sees a woman in the video
+1064-2,no
+1064-3,yes
+1064-7,D
+1075-0,Spider-Man is a villain.
+1075-1,to make a movie
+1075-2,yes
+1075-3,no
+1075-7,D.
+1080-0,Because he is a scientist.
+1080-1,he is a chef.
+1080-2,no
+1080-3,yes
+1080-7,C
+1081-0,green bricks
+1081-1,it is a sign of love
+1081-2,no
+1081-3,no
+1081-7,A
+1087-0,right
+1087-1,left
+1087-2,no
+1087-3,no
+1087-7,B.
+1090-0,a flock of sheep
+1090-1,as if it was painted on the ground
+1090-2,no
+1090-3,no
+1090-7,D
+1091-0,three
+1091-1,three
+1091-2,yes
+1091-3,no
+1091-7,B
+1095-0,throws it into the keg
+1095-1,the keg was empty
+1095-2,no
+1095-3,no
+1095-7,A.
+1101-0,he wanted to make it look like it had been shot.
+1101-1,he wanted to make sure he had a good shot.
+1101-2,no
+1101-3,no
+1101-7,B.
+1111-0,taylor swift
+1111-1,taylor swift
+1111-2,no
+1111-3,no
+1111-7,B
+1112-0,taylor swift
+1112-1,johnny
+1112-2,no
+1112-3,no
+1112-7,A
+1117-0,taylor swift
+1117-1,taylor swift
+1117-2,no
+1117-3,no
+1117-7,D
+1119-0,in the kitchen
+1119-1,in the bottom left corner of the screen
+1119-2,no
+1119-3,no
+1119-7,B.
+1121-0,s
+1121-1,f
+1121-2,no
+1121-3,no
+1121-7,D
+1122-0,in the middle of the video
+1122-1,a hospital
+1122-2,no
+1122-3,no
+1122-7,C
+1124-0,in a hat
+1124-1,it floats to the surface
+1124-2,no
+1124-3,no
+1124-7,C
+1127-0,in the middle of the basket
+1127-1,The target basket and the ball shooter are positioned in the center of the screen.
+1127-2,no
+1127-3,no
+1127-7,B
+1130-0,blue
+1130-1,tiger
+1130-2,yes
+1130-3,no
+1130-7,B
+1134-0,The ball of the first throw in the last scene moved about when it is released by the person.
+1134-1,0 m
+1134-2,no
+1134-3,no
+1134-7,B.
+1137-0,side to side
+1137-1,right
+1137-2,no
+1137-3,no
+1137-7,D
+1145-0,ten seconds
+1145-1,5 minutes
+1145-2,no
+1145-3,yes
+1145-7,A
+1159-0,ice cream
+1159-1,five
+1159-2,no
+1159-3,no
+1159-7,D
+1160-0,tin can
+1160-1,teddy bear
+1160-2,no
+1160-3,yes
+1160-7,D.
+1161-0,white and blue
+1161-1,white and blue
+1161-2,yes
+1161-3,yes
+1161-7,B.
+1162-0,BROWSED
+1162-1,menus
+1162-2,yes
+1162-3,yes
+1162-7,"C. Calendar, Clock, Notes, Calculator, Settings"
+1168-0,he fell into a hole
+1168-1,a car accident
+1168-2,no
+1168-3,no
+1168-7,D
+1169-0,he threw a fumble
+1169-1,a typhoon
+1169-2,no
+1169-3,no
+1169-7,C
+1170-0,a grenade exploded
+1170-1,a storm
+1170-2,no
+1170-3,no
+1170-7,C
+1173-0,a car accident
+1173-1,a car accident
+1173-2,no
+1173-3,sudden stop
+1173-7,C
+1175-0,The bear on the ground is made to move by a rope.
+1175-1,bouncing
+1175-2,no
+1175-3,no
+1175-7,C
+1176-0,he planted it in a pot
+1176-1,a chemical reaction
+1176-2,yes
+1176-3,no
+1176-7,B.
+1177-0,He sat on the other boat for a long time.
+1177-1,scuba diving
+1177-2,yes
+1177-3,no
+1177-7,C
+1178-0,it's a computer
+1178-1,it's a computer
+1178-2,no
+1178-3,no
+1178-7,A
+1181-0,a fire broke out
+1181-1,pyrotechnics
+1181-2,no
+1181-3,no
+1181-7,C
+1182-0,vertically
+1182-1,vertically
+1182-2,yes
+1182-3,yes
+1182-7,B.
+1183-0,a storm blew through
+1183-1,a thunderstorm
+1183-2,no
+1183-3,no
+1183-7,A
+1192-0,It was on fire.
+1192-1,a power outage
+1192-2,no
+1192-3,no
+1192-7,B
+1203-0,The man threw the towel into the stream.
+1203-1,Using a screwdriver
+1203-2,yes
+1203-3,no
+1203-7,B.
+1206-0,The paint is being sprayed with water.
+1206-1,rubbing alcohol
+1206-2,no
+1206-3,no
+1206-7,B
+1209-0,5 mph
+1209-1,5 mph
+1209-2,no
+1209-3,yes
+1209-7,B
+1210-0,the focus of the camera
+1210-1,The focus changes throughout the video.
+1210-2,no
+1210-3,yes
+1210-7,B
+1214-0,slow motion
+1214-1,The camera moves in a circular motion.
+1214-2,yes
+1214-3,yes
+1214-7,C
+1223-0,The camera view in the last throw is slightly different from the other throws.
+1223-1,the angle of view changes
+1223-2,yes
+1223-3,no
+1223-7,B.
+1225-0,samurai
+1225-1,samuel jones
+1225-2,yes
+1225-3,yes
+1225-7,B.
+1229-0,The object in front of the mirror is in front of the mirror.
+1229-1,the reflection of a mirror
+1229-2,no
+1229-3,no
+1229-7,B
+1231-0,It is a waterfall.
+1231-1,a sledgehammer
+1231-2,no
+1231-3,yes
+1231-7,B
+1233-0,There are two people in the photo.
+1233-1,there are two reflections in the water
+1233-2,yes
+1233-3,no
+1233-7,B
+1235-0,3
+1235-1,3
+1235-2,no
+1235-3,no
+1235-7,C
+1236-0,no
+1236-1,no
+1236-2,no
+1236-3,no
+1236-7,C.
+1237-0,0
+1237-1,0
+1237-2,no
+1237-3,no
+1237-7,B
+1239-0,no
+1239-1,yes
+1239-2,yes
+1239-3,no
+1239-7,B.
+1242-0,he won a gold medal
+1242-1,he was able to win the lottery
+1242-2,no
+1242-3,no
+1242-7,A
+1255-0,blue
+1255-1,blue
+1255-2,yes
+1255-3,yes
+1255-7,D
+1260-0,he is wearing a white shirt
+1260-1,a scream
+1260-2,no
+1260-3,no
+1260-7,C
+1261-0,the reflection of only one woman is visible
+1261-1,a man and a woman
+1261-2,no
+1261-3,no
+1261-7,B
+1262-0,happy
+1262-1,frightened
+1262-2,yes
+1262-3,yes
+1262-7,A
+1275-0,eddie mcfly
+1275-1,taylor swift
+1275-2,no
+1275-3,no
+1275-7,B.
+1276-0,lemon juice
+1276-1,it is a symbol of good fortune
+1276-2,no
+1276-3,no
+1276-7,B
+1278-0,2
+1278-1,0
+1278-2,no
+1278-3,no
+1278-7,B.
+1283-0,jimmy jones
+1283-1,joey scott
+1283-2,no
+1283-3,no
+1283-7,D
+1288-0,happy
+1288-1,happy
+1288-2,no
+1288-3,yes
+1288-7,C
+1290-0,irritated
+1290-1,he screams
+1290-2,no
+1290-3,yes
+1290-7,D
+1293-0,The bottle cap flies in the air.
+1293-1,using a helium balloon
+1293-2,no
+1293-3,no
+1293-7,A.
+1294-0,Because it was grilled.
+1294-1,a fire
+1294-2,no
+1294-3,no
+1294-7,B
+1298-0,Because he didn't like it.
+1298-1,he threw the ball
+1298-2,no
+1298-3,no
+1298-7,C
+1299-0,a fire broke out
+1299-1,a fire
+1299-2,no
+1299-3,yes
+1299-7,C
+1307-0,4 mph
+1307-1,The speed difference between the two tires changes as they move forward past the ramp.
+1307-2,no
+1307-3,no
+1307-7,B
+1308-0,The speed of the black missile increases as the speed of the black missile increases
+1308-1,the speed of the black missile decreases
+1308-2,no
+1308-3,no
+1308-7,A.
+1310-0,samurai
+1310-1,taylor swift
+1310-2,no
+1310-3,no
+1310-7,B
+1312-0,no
+1312-1,no
+1312-2,no
+1312-3,no
+1312-7,D.
+1318-0,happy
+1318-1,happy
+1318-2,no
+1318-3,yes
+1318-7,B
+1321-0,happy
+1321-1,happy
+1321-2,no
+1321-3,no
+1321-7,A
+1324-0,They are happy.
+1324-1,They are happy.
+1324-2,no
+1324-3,yes
+1324-7,A
+1329-0,She is happy.
+1329-1,she is happy
+1329-2,anger
+1329-3,no
+1329-7,C
+1344-0,the injection was successful
+1344-1,the injection
+1344-2,no
+1344-3,yes
+1344-7,B
